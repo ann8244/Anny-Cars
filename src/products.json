@@ -1,0 +1,98 @@
+[
+  {
+    "id": 0,
+    "name": "CHEVROLET AVEO",
+    "picture": "images/1.jpg",
+    "year": 2011,
+    "downpayment": "ดาวน์ 5,000 บาท",
+    "fullprice": "149,000 บาn"
+  },
+  {
+    "id": 1,
+    "name": "BMW 3301 SE E90 Auto",
+    "picture": "images/2.jpg",
+    "year": 2013,
+    "downpayment": "Free Down",
+    "fullprice": "799,000 บาn"
+  },
+  {
+    "id": 2,
+    "name": "CHEVROLET COLARADO",
+    "picture": "images/3.jpg",
+    "year": 2012,
+    "downpayment": "ดาวน์ 9,000 บาท",
+    "fullprice": "279,000 บาn"
+  },
+  {
+    "id": 3,
+    "name": "CHEVROLET OPTRA (MNC)",
+    "picture": "images/4.jpg",
+    "year": 2009,
+    "downpayment": "Free Down",
+    "fullprice": "99,000 บาn"
+  },
+  {
+    "id": 4,
+    "name": "CHEVROLET COLARADO",
+    "picture": "images/5.jpg",
+    "year": 2019,
+    "downpayment": "Fดาวน์ 15,000 บาท",
+    "fullprice": "429,000 บาn"
+  },
+  {
+    "id": 5,
+    "name": "CHEVROLET COLARADO",
+    "picture": "images/6.jpg",
+    "year": 2019,
+    "downpayment": "ดาวน์ 15,000 บาท",
+    "fullprice": "375,000 บาn"
+  },
+  {
+    "id": 6,
+    "name": "CHEVROLET COLARADO",
+    "picture": "images/7.jpg",
+    "year": 2019,
+    "downpayment": "ดาวน์ 25,000 บาท",
+    "fullprice": "439,000 บาn"
+  },
+  {
+    "id": 7,
+    "name": "CHEVROLET OPTRA (MNC)",
+    "picture": "images/8.jpg",
+    "year": 2010,
+    "downpayment": "ดาวน์ 9,000 บาท",
+    "fullprice": "139,000 บาn"
+  },
+  {
+    "id": 8,
+    "name": "CHEVROLET SONIC SEDAN",
+    "picture": "images/9.jpg",
+    "year": 2015,
+    "downpayment": "ดาวน์ 9,000 บาท",
+    "fullprice": "225,000 บาn"
+  },
+  {
+  "id": 9,
+  "name": "CHEVROLET SONIC SEDAN",
+  "picture": "images/10.jpg",
+  "year": 2014,
+  "downpayment": "ดาวน์ 9,000 บาท",
+  "fullprice": "179,000 บาn"
+  },
+  {
+  "id": 10,
+  "name": "CHEVROLET CRUZE",
+  "picture": "images/11.jpg",
+  "year": 2013,
+  "downpayment": "Free Down",
+  "fullprice": "239,000 บาn"
+  },
+  {
+  "id": 11,
+  "name": "CHEVROLET CRUZE (MNC)",
+  "picture": "images/12.jpg",
+  "year": 2014,
+  "downpayment": "ดาวน์ 5,000 บาท",
+  "fullprice": "149,000 บาn"
+  }
+]
